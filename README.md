@@ -30,7 +30,7 @@ Technologies Used
 
 Project Structure
 
-Book-Management-System/
+Book-Management-System
 │
 ├── main.c 
 ├── books.dat 
