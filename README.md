@@ -32,6 +32,6 @@ Project Structure
 
 Book-Management-System/
 │
-├── main.c # Main source code file
-├── books.dat # File used for storing book records (generated automatically)
-└── README.md # Project documentation
+├── main.c 
+├── books.dat 
+└── README.md 
